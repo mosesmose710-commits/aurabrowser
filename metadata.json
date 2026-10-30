@@ -1,0 +1,6 @@
+{
+  "name": "Aura Browser",
+  "description": "A sleek, feature-packed web browser simulator with live web proxy, split view, DevTools, tab grouping, bookmarks, incognito mode, and built-in apps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

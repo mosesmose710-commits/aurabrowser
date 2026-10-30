@@ -1,0 +1,33 @@
+{
+  "id": "/",
+  "name": "XENON Browser",
+  "short_name": "XENON",
+  "description": "High-speed intelligent web browser with 3D female AI companion Xenon, Ordion co-pilot, and zero ads.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#030712",
+  "theme_color": "#4f46e5",
+  "categories": ["utilities", "productivity"],
+  "icons": [
+    {
+      "src": "/file_00000000c6188211b7ae4496ba2505c0.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/file_00000000c6188211b7ae4496ba2505c0.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/file_00000000c6188211b7ae4496ba2505c0.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
