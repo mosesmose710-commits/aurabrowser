@@ -709,7 +709,7 @@ export default function App() {
         </div>
       </div>
 
-      {/* Welcome to XENON Intro Overlay */}
+      {/* Welcome to Mosestech Theory Intro Overlay */}
       {showIntro && (
         <WelcomeIntro
           onStart={() => setShowIntro(false)}

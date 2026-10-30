@@ -232,11 +232,11 @@ export const MosestechTheorySplash: React.FC<MosestechTheorySplashProps> = ({
           <span>INDEPENDENT WEB ENGINE</span>
         </div>
 
-        {/* Main Title: WELCOME TO XENON */}
+        {/* Main Title: WELCOME TO MOSESTECH THEORY */}
         <h1 className="text-3xl sm:text-5xl md:text-6xl font-black tracking-tight text-white uppercase leading-tight drop-shadow-2xl">
           WELCOME TO{' '}
           <span className="bg-gradient-to-r from-sky-400 via-indigo-300 to-purple-400 bg-clip-text text-transparent">
-            XENON
+            MOSESTECH THEORY
           </span>
         </h1>
 
