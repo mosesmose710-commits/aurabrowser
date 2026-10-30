@@ -117,7 +117,7 @@ export const WelcomeIntro: React.FC<WelcomeIntroProps> = ({ onStart, onOpenSuppo
 
         {/* Main Big Intro Title */}
         <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white mb-2 leading-none">
-          WELCOME TO <span className="bg-gradient-to-r from-sky-400 via-indigo-400 to-purple-400 bg-clip-text text-transparent">XENON</span>
+          WELCOME TO <span className="bg-gradient-to-r from-sky-400 via-indigo-400 to-purple-400 bg-clip-text text-transparent">MOSESTECH THEORY</span>
         </h1>
 
         <p className="text-xs sm:text-sm text-slate-300 max-w-md mx-auto mb-6 font-normal leading-relaxed">

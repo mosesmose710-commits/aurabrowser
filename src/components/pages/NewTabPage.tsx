@@ -170,10 +170,10 @@ export const NewTabPage: React.FC<NewTabPageProps> = ({
         </div>
       </div>
 
-      {/* Main Hero: WELCOME TO XENON */}
+      {/* Main Hero: WELCOME TO MOSESTECH THEORY */}
       <div className="flex flex-col items-center text-center my-3">
         <div className="text-3xl sm:text-4xl md:text-5xl font-black tracking-tight text-white mb-2 uppercase">
-          WELCOME TO <span className="bg-gradient-to-r from-sky-400 via-indigo-400 to-purple-400 bg-clip-text text-transparent">XENON</span>
+          WELCOME TO <span className="bg-gradient-to-r from-sky-400 via-indigo-400 to-purple-400 bg-clip-text text-transparent">MOSESTECH THEORY</span>
         </div>
         <div className="text-4xl sm:text-5xl font-extrabold tracking-tight font-mono text-slate-300 my-1 tabular-nums">
           {timeStr}
